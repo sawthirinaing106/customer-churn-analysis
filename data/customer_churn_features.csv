@@ -1,0 +1,51 @@
+customer_id,gender,senior_citizen,partner,dependents,tenure,phone_service,internet_service,contract,payment_method,monthly_charges,total_charges,churn,churn_flag,tenure_group,charge_bucket,high_risk
+001,Female,0,Yes,No,5,Yes,Fiber optic,Month-to-month,Electronic check,75.3,376.5,Yes,1,0-12 months,Medium,0
+002,Male,0,No,No,2,Yes,DSL,Month-to-month,Mailed check,55.1,110.2,No,0,0-12 months,Medium,0
+003,Female,1,No,No,45,Yes,Fiber optic,Two year,Credit card,89.7,4036.2,No,0,24-48 months,High,0
+004,Male,0,Yes,Yes,12,Yes,DSL,One year,Bank transfer,65.4,784.8,No,0,0-12 months,Medium,0
+005,Female,0,No,No,1,Yes,Fiber optic,Month-to-month,Electronic check,99.2,99.2,Yes,1,0-12 months,High,1
+006,Male,1,No,No,8,Yes,DSL,Month-to-month,Mailed check,49.9,399.2,No,0,0-12 months,Low,0
+007,Female,0,Yes,No,22,Yes,Fiber optic,One year,Credit card,85.6,1883.2,No,0,12-24 months,High,0
+008,Male,0,No,No,3,Yes,Fiber optic,Month-to-month,Electronic check,92.4,277.2,Yes,1,0-12 months,High,1
+009,Female,1,No,No,60,Yes,DSL,Two year,Bank transfer,52.3,3138.0,No,0,48+ months,Medium,0
+010,Male,0,Yes,Yes,10,Yes,Fiber optic,Month-to-month,Electronic check,98.7,987.0,Yes,1,0-12 months,High,1
+011,Female,0,No,No,4,Yes,DSL,Month-to-month,Mailed check,45.6,182.4,No,0,0-12 months,Low,0
+012,Male,1,No,No,30,Yes,Fiber optic,One year,Credit card,88.1,2643.0,No,0,24-48 months,High,0
+013,Female,0,Yes,No,14,Yes,DSL,Month-to-month,Electronic check,60.2,842.8,No,0,12-24 months,Medium,0
+014,Male,0,No,No,6,Yes,Fiber optic,Month-to-month,Electronic check,95.4,572.4,Yes,1,0-12 months,High,1
+015,Female,1,No,No,50,Yes,DSL,Two year,Bank transfer,49.5,2475.0,No,0,48+ months,Low,0
+016,Male,0,Yes,Yes,20,Yes,Fiber optic,One year,Credit card,82.9,1658.0,No,0,12-24 months,High,0
+017,Female,0,No,No,1,Yes,Fiber optic,Month-to-month,Electronic check,104.3,104.3,Yes,1,0-12 months,High,1
+018,Male,1,No,No,40,Yes,DSL,One year,Mailed check,58.7,2348.0,No,0,24-48 months,Medium,0
+019,Female,0,Yes,No,9,Yes,Fiber optic,Month-to-month,Electronic check,97.1,873.9,Yes,1,0-12 months,High,1
+020,Male,0,No,No,3,Yes,DSL,Month-to-month,Mailed check,44.8,134.4,No,0,0-12 months,Low,0
+021,Female,1,No,No,55,Yes,Fiber optic,Two year,Credit card,90.2,4961.0,No,0,48+ months,High,0
+022,Male,0,Yes,Yes,16,Yes,DSL,One year,Bank transfer,62.1,993.6,No,0,12-24 months,Medium,0
+023,Female,0,No,No,7,Yes,Fiber optic,Month-to-month,Electronic check,101.5,710.5,Yes,1,0-12 months,High,1
+024,Male,1,No,No,48,Yes,DSL,Two year,Mailed check,53.4,2563.2,No,0,48+ months,Medium,0
+025,Female,0,Yes,No,11,Yes,Fiber optic,Month-to-month,Electronic check,96.8,1064.8,Yes,1,0-12 months,High,1
+026,Male,0,No,No,5,Yes,DSL,Month-to-month,Mailed check,47.9,239.5,No,0,0-12 months,Low,0
+027,Female,1,No,No,36,Yes,Fiber optic,One year,Credit card,87.3,3142.8,No,0,24-48 months,High,0
+028,Male,0,Yes,Yes,13,Yes,DSL,Month-to-month,Bank transfer,59.4,772.2,No,0,12-24 months,Medium,0
+029,Female,0,No,No,2,Yes,Fiber optic,Month-to-month,Electronic check,102.7,205.4,Yes,1,0-12 months,High,1
+030,Male,1,No,No,52,Yes,DSL,Two year,Credit card,51.8,2693.6,No,0,48+ months,Low,0
+031,Female,0,Yes,No,18,Yes,Fiber optic,One year,Mailed check,84.6,1522.8,No,0,12-24 months,High,0
+032,Male,0,No,No,4,Yes,DSL,Month-to-month,Electronic check,46.3,185.2,No,0,0-12 months,Low,0
+033,Female,1,No,No,58,Yes,Fiber optic,Two year,Bank transfer,91.4,5301.2,No,0,48+ months,High,0
+034,Male,0,Yes,Yes,15,Yes,DSL,One year,Credit card,63.2,948.0,No,0,12-24 months,Medium,0
+035,Female,0,No,No,6,Yes,Fiber optic,Month-to-month,Electronic check,99.9,599.4,Yes,1,0-12 months,High,1
+036,Male,1,No,No,42,Yes,DSL,One year,Mailed check,57.6,2419.2,No,0,24-48 months,Medium,0
+037,Female,0,Yes,No,10,Yes,Fiber optic,Month-to-month,Electronic check,97.8,978.0,Yes,1,0-12 months,High,1
+038,Male,0,No,No,3,Yes,DSL,Month-to-month,Bank transfer,45.1,135.3,No,0,0-12 months,Low,0
+039,Female,1,No,No,47,Yes,Fiber optic,Two year,Credit card,89.9,4225.3,No,0,24-48 months,High,0
+040,Male,0,Yes,Yes,12,Yes,DSL,One year,Mailed check,61.7,740.4,No,0,0-12 months,Medium,0
+041,Female,0,No,No,8,Yes,Fiber optic,Month-to-month,Electronic check,103.2,825.6,Yes,1,0-12 months,High,1
+042,Male,1,No,No,38,Yes,DSL,One year,Bank transfer,56.9,2162.2,No,0,24-48 months,Medium,0
+043,Female,0,Yes,No,14,Yes,Fiber optic,Month-to-month,Electronic check,98.4,1377.6,Yes,1,12-24 months,High,1
+044,Male,0,No,No,5,Yes,DSL,Month-to-month,Mailed check,48.2,241.0,No,0,0-12 months,Low,0
+045,Female,1,No,No,60,Yes,Fiber optic,Two year,Credit card,92.1,5526.0,No,0,48+ months,High,0
+046,Male,0,Yes,Yes,17,Yes,DSL,One year,Bank transfer,64.5,1096.5,No,0,12-24 months,Medium,0
+047,Female,0,No,No,7,Yes,Fiber optic,Month-to-month,Electronic check,100.8,705.6,Yes,1,0-12 months,High,1
+048,Male,1,No,No,44,Yes,DSL,One year,Mailed check,55.7,2450.8,No,0,24-48 months,Medium,0
+049,Female,0,Yes,No,9,Yes,Fiber optic,Month-to-month,Electronic check,96.5,868.5,Yes,1,0-12 months,High,1
+050,Male,0,No,No,2,Yes,DSL,Month-to-month,Mailed check,43.9,87.8,No,0,0-12 months,Low,0
